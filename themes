@@ -1,0 +1,5 @@
+# Xenlism WildFire
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 2B80AC38
+sudo add-apt-repository ppa:xenatt/xenlism
+sudo apt-get update
+sudo apt-get install xenlism-wildfire-icon-theme
