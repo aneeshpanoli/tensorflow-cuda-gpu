@@ -1,0 +1,2 @@
+sudo chown -R $USER: /media/$USER/"partition name"
+sudo chmod 755 -R /home/
